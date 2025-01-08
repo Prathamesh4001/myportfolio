@@ -1,8 +1,7 @@
 import React from 'react'
 export const Header = () => {
   return (
-    <header class="fixed top-0 left-0 w-full bg-gray-900 text-white z-50 shadow-lg">
-  <div class="max-w-7xl mx-auto flex items-center justify-between py-4 px-6 ">
+    <header class="fixed top-0 left-0 w-full bg-gray-900 text-white z-50 shadow-lg "> <div class="max-w-7xl mx-auto flex items-center justify-between py-4 px-6 ">
     <h1 class="text-2xl font-bold">My Portfolio</h1>
     <nav>
       <ul class="flex space-x-6">
